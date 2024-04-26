@@ -21,3 +21,5 @@ This course introduces the fundamental concepts of data structures and algorithm
 
 The course assessment includes written exams and practical coding tests, aimed at evaluating both theoretical knowledge and practical skills in implementing data structures and algorithms.
 
+**The syllabus of the course:**
+[סילבוס מבנה נתונים ואלגוריתמים תשפג סמסטר ב.pdf](https://github.com/eladtayarr/Algorithms/files/15130108/default.pdf)
